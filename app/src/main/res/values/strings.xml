@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Relative_layout</string>
+    <string name="Data_text_1">data_1</string>
+    <string name="Data_text_2">data_2</string>
+    <string name="upper_data_1">data_1</string>
+    <string name="upper_data_2">data_2</string>
+    <string name="upper_data_3">data_3</string>
+    <string name="Arrow"><![CDATA[->\n<-]]></string>
+</resources>
